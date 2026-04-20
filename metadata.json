@@ -1,0 +1,6 @@
+{
+  "name": "Tenkasi District Communication Plan",
+  "description": "A comprehensive communication directory for Tenkasi District. Displays officer contact information, grouped zonal officer data with polling station ranges, and supervisor details from synchronized Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
